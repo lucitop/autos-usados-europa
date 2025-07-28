@@ -7,6 +7,8 @@ Este repositorio incluye dos versiones del análisis:
 
 > El archivo `.ipynb` original con outputs completos excedía los límites de GitHub, por lo que fue exportado como `.html` para conservar los gráficos no interactivos sin afectar el rendimiento.  
 > Las visualizaciones interactivas no estarán ejecutadas en el `.html`, pero están disponibles para la ejecución local en el `.ipynb`.
+> 
+> Es importante tener en cuenta que github no soporta la ejecución de `.html` pero basta con descargar el archivo y abrirlo en el navegador a elección.
 
 # Introducción y objetivos generales
 
